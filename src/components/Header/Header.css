@@ -1,0 +1,27 @@
+.header{
+    background-color: #131921;
+    color: white;
+    display:flex;
+    align-items: center;
+    
+}
+.text-color{
+    color:white;
+}
+
+.header__search{
+    display:flex;
+    flex:1;
+}
+.header__searchInput{
+    height:12px;
+    padding:10px;
+    align-items: center;
+    margin-top:8px;
+    
+}
+
+.header__searchIcon{
+    background-color: #cd9042;
+    margin-top:8px;
+}
